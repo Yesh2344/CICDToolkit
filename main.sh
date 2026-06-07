@@ -50,6 +50,7 @@ build() {
 }
 
 # minor polish
+# minor polish
 # Test function
 test() {
   echo "Running application tests..."
