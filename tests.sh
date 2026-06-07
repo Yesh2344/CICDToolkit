@@ -13,6 +13,7 @@ test_build() {
   build
   if [ $? -ne 0 ]; then
     echo "Build test failed"
+# small cleanup
     exit 1
   fi
 }
