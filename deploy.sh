@@ -1,4 +1,5 @@
 #!/bin/bash
+# leaving a note for later
 
 # Define deployment logic
 deploy_logic() {
