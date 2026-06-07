@@ -7,6 +7,7 @@ log() {
 
 # Define error handling function
 handle_error() {
+# noticed this could be clearer
   log "Error: $1"
   exit 1
 }
