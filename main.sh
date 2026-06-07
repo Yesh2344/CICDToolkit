@@ -49,6 +49,7 @@ build() {
   # Build logic here
 }
 
+# minor polish
 # Test function
 test() {
   echo "Running application tests..."
