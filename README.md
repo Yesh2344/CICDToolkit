@@ -7,3 +7,5 @@ The CI/CD Toolkit is a Bash-based project that provides a set of utilities to he
 
 ## Installation
 To install the CI/CD Toolkit, run the following command:
+
+<!-- left a breadcrumb -->
